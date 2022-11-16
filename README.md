@@ -22,10 +22,13 @@ As seen, there is an abundance of data from previous implentation of this system
 - Rides typically last less than 20 minutes.
 - Males and Females tend to take a similar amount of time riding bikes.
 - Males and Females also tend to follow a similar pattern of what days they ride as well as when.
-- Most bike sharing users come from subscribers as opposed to customers.  
-From these points possible conclusions/improvements to be drawn:
+- Most bike sharing users come from subscribers as opposed to customers.
+-------------------------------------------------------------------------  
+  From these points possible conclusions/improvements to be drawn:
 - Can increase availability by advertising/accomodating for females
 - Increase bike availability from 5-7 pm, especially on Monday, Tuesday, and Thursday.
 - Increase attrativeness of customers, whilst maintaining outlook for subscribers.
+-------------------------------------------------------------------------  
 Finally, two additional visualizations that could create more insight:
-- Height chart of various users, to provide more equipment/bikes catered towards various heights
+- Height chart of various users, to provide more equipment/bikes catered towards various heights.
+- Average group size, to encourage larger rentals via some sort of promotion/discount
